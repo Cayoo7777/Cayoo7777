@@ -1,7 +1,7 @@
 ### Olá eu sou Cayo Nunes👋
 
-- 🔭 Estou trabalhando com Front and
-- 🌱 estudando java e javascript
+- 🔭 Estou trabalhando como web Dev
+- 🌱 estudando javascript
 - 😄 Pronouns: ele/dele
 
 <div align="center">
